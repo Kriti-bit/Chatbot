@@ -21,4 +21,4 @@ The bot can be trained to help customers with links/documents for general querie
 
 ## Demonstration
 
-<img src="https://user-images.githubusercontent.com/69788174/194003416-614c51be-1fe2-4bb2-8e76-c215c245f853.gif" width="700" height="600" />
+<img src="https://user-images.githubusercontent.com/69788174/194003416-614c51be-1fe2-4bb2-8e76-c215c245f853.gif" width="500" height="400" />
